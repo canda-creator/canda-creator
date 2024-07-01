@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola! Soy Candela 🌸
 
-![Bienvenido✨](https://i.pinimg.com/564x/32/6d/be/326dbebbfc16f683f91f8caf5c3a7bde.jpg)
+![Bienvenido✨](C:\Users\Usuario\Downloads\Diseño sin título.png)
 
 ## Acerca de mí
 
