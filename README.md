@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola! Soy Candela 🌸
 
-![Bienvenido](https://via.placeholder.com/800x200/f9d9eb/000000?text=Hola,+soy+Candela)
+![Bienvenido](https://pin.it/6JRu3iDKC)
 ✨
 
 ## Acerca de mí
