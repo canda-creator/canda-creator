@@ -13,7 +13,7 @@
 
 ## Mis Proyectos
 
-### [🌸 Web Inclusiva](https://github.com/tuusuario/web-inclusiva)
+### [🌸 Web Género](https://github.com/canda-creator/CET-genero)
 Un sitio web diseñado para ser accesible para todas las personas, independientemente de sus capacidades. 🧡
 
 ## Contacto
