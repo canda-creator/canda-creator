@@ -1,8 +1,8 @@
 # 👩‍💻 ¡Hola! Soy Candela 🌸
 
-![Bienvenido](https://via.placeholder.com/800x200?text=Hola,+Soy+%5BTu+Nombre%5D)
+![Bienvenido](https://via.placeholder.com/800x200?text=Hola,+Soy+%5BTu+Candela%5D)
 
-Desarrollador/a Front-End con un fuerte interés en el diseño y la accesibilidad web. ✨
+✨
 
 ## Acerca de mí
 
