@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola! Soy Candela 🌸
 
-![Bienvenido](https://pin.it/6JRu3iDKC)
+![Bienvenido]([https://pin.it/6JRu3iDKC])
 ✨
 
 ## Acerca de mí
