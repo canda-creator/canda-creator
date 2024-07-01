@@ -19,6 +19,4 @@ Un sitio web diseñado para ser accesible para todas las personas, independiente
 ## Contacto
 
 - 📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- 💼 **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/tuusuario)
-- 🐱 **GitHub:** [tuusuario](https://github.com/tuusuario)
-- 
+- 🐱 **GitHub:** [@canda-creator](https://github.com/canda-creator)
