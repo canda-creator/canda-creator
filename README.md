@@ -13,10 +13,11 @@
 
 ## Mis Proyectos
 
+### [🌸 Web Prueba](https://github.com/canda-creator/pruebs-repo)
 ### [🌸 Web Género](https://github.com/canda-creator/CET-genero)
 Un sitio web diseñado para ser accesible para todas las personas, independientemente de sus capacidades. 🧡
 
 ## Contacto
 
-- 📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- 📧 **Email:** [candelaalfonso13@gmail.com](candelaalfonso13@gmail.com)
 - 🐱 **GitHub:** [@canda-creator](https://github.com/canda-creator)
