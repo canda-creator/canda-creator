@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola! Soy Candela 🌸
 
-![Bienvenido✨](C:\Users\Usuario\Downloads\Diseño sin título.png)
+![Bienvenido✨](https://github.com/canda-creator/canda-creator/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true)
 
 ## Acerca de mí
 
