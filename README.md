@@ -16,9 +16,6 @@
 ### [🌸 Web Inclusiva](https://github.com/tuusuario/web-inclusiva)
 Un sitio web diseñado para ser accesible para todas las personas, independientemente de sus capacidades. 🧡
 
-### [📚 Juego Educativo](https://github.com/tuusuario/juego-educativo)
-Un juego interactivo para ayudar a los niños a aprender matemáticas de manera divertida. 🎮
-
 ## Contacto
 
 - 📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
