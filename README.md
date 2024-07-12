@@ -11,7 +11,7 @@
 - 📈 Siempre buscando mejorar y aprender nuevas habilidades.
 
 ## Mis Proyectos
-### [🌸 Web Tomowwro x Together](ttps://github.com/canda-creator/proyecto-txt)
+### [🌸 Web Tomorrow x Together](https://github.com/canda-creator/proyecto-txt)
 Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
 ### [🌸 Web Prueba](https://github.com/canda-creator/prueba-repo)
 En la primera clase del día 25/06 nos enseñaron como crear un repositorio. 
