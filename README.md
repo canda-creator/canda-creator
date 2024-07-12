@@ -11,12 +11,12 @@
 - 📈 Siempre buscando mejorar y aprender nuevas habilidades.
 
 ## Mis Proyectos
-### [🌸 Web Tomorrow x Together](https://github.com/canda-creator/proyecto-txt)
-Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
 ### [🌸 Web Género](https://github.com/canda-creator/CET-genero)
 Un sitio web diseñado sobre problemáticas de género. 🧡
 ### [🌸 Web Prueba](https://github.com/canda-creator/prueba-repo)
 En la primera clase del día 25/06 nos enseñaron como crear un repositorio.
+### [🌸 Web Tomorrow x Together](https://github.com/canda-creator/proyecto-txt)
+Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
 
 ## Contacto
 - 📌 **Pinterest** [Encontrame en Pinterest](https://ar.pinterest.com/candeschwidt)
