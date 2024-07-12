@@ -19,6 +19,6 @@ En la primera clase del día 25/06 nos enseñaron como crear un repositorio.
 Un sitio web diseñado sobre problemáticas de género. 🧡
 
 ## Contacto
-
+- 📌 **Pinterest** [Encontrame en pinterest](https://ar.pinterest.com/candeschwidt)
 - 📧 **Email:** [candelaalfonso13@gmail.com](candelaalfonso13@gmail.com)
 - 🐱 **GitHub:** [@canda-creator](https://github.com/canda-creator)
