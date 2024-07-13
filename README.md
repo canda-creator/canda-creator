@@ -4,8 +4,7 @@
 
 ## Acerca de mí
 
-- 🎓 Participante del programa de **Desarrollo Front-End** de **Chicas en Tecnología**.
-- 🔧 Aprendiendo **JavaScript**, **HTML**, y **CSS**.
+- 🎓 Participante del programa de **Chicas en Tecnología**.
 - 📖 Tomando un curso de **Community Manager**.
 - 🌍 Apasionada por todo lo referido al **Diseño UX/UI**.
 - 📈 Siempre buscando mejorar y aprender nuevas habilidades.
