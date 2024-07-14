@@ -20,4 +20,5 @@ Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
 ## Contacto
 - 📌 **Pinterest** [Encontrame en Pinterest](https://ar.pinterest.com/candeschwidt)
 - 📧 **Email:** [candelaalfonso13@gmail.com](candelaalfonso13@gmail.com)
+- 🎨 **Behance** [Mi portfolio como diseñadora gráfica](https://www.behance.net/candelaalfonso1)
 - 🐱 **GitHub:** [@canda-creator](https://github.com/canda-creator)
