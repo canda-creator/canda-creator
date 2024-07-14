@@ -12,13 +12,12 @@
 ## Mis Proyectos
 ### [🌸 Web Género](https://github.com/canda-creator/CET-genero)
 Un sitio web diseñado sobre problemáticas de género. 🧡
-### [🌸 Web Prueba](https://github.com/canda-creator/prueba-repo)
-En la primera clase del día 25/06 nos enseñaron como crear un repositorio.
 ### [🌸 Web Tomorrow x Together](https://github.com/canda-creator/proyecto-txt)
 Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
 
 ## Contacto
 - 📧 **Email:** [candelaalfonso13@gmail.com](candelaalfonso13@gmail.com)
-- 🎨 **Behance** [Mi portfolio como diseñadora gráfica]
+- 🎨 **Behance** [Mi portfolio como diseñadora gráfica](https://www.behance.net/candelaalfonso1/info)
 - 📌 **Pinterest** [Encontrame en Pinterest](https://ar.pinterest.com/candeschwidt)
 - 🐱 **GitHub:** [@canda-creator](https://github.com/canda-creator)
+- 
