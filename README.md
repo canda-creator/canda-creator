@@ -20,4 +20,3 @@ Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
 - 🎨 **Behance** [Mi portfolio como diseñadora gráfica](https://www.behance.net/candelaalfonso1/info)
 - 📌 **Pinterest** [Encontrame en Pinterest](https://ar.pinterest.com/candeschwidt)
 - 🐱 **GitHub:** [@canda-creator](https://github.com/canda-creator)
-- 
