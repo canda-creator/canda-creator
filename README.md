@@ -9,8 +9,6 @@
 - 📈 Siempre buscando mejorar y aprender nuevas habilidades.
 
 ## Mis Proyectos
-### [🌸 Web Género](https://github.com/canda-creator/CET-genero)
-Un sitio web diseñado sobre problemáticas de género. 🧡
 ### [🌸 Web Tomorrow x Together](https://github.com/canda-creator/proyecto-txt)
 Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
 ### [🌸 Web Portfolio](https://github.com/canda-creator/portfolio)
