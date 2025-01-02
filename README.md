@@ -1,7 +1,5 @@
 # 👩‍💻 ¡Hola! Soy Candela 🌸
 
-![Bienvenido✨](https://github.com/canda-creator/canda-creator/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true)
-
 ## Acerca de mí
 
 - 📖 Tomando un curso de **QA Manual**
