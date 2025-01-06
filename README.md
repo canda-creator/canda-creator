@@ -9,7 +9,7 @@
 ## Mis Proyectos
 ### [🌸 Web Tomorrow x Together](https://github.com/canda-creator/proyecto-txt)
 Mi sitio web sobre la banda surcoreana Tomorrow x Together. 🧡
-### [🌸 Web Portfolio](https://github.com/canda-creator/portfolio)
+### [🌸 Web Portfolio](https://github.com/canda-creator/portfolio-canda)
 Mi portfolio (en proceso) como desarrolladora Front-End
 
 ## Lenguajes y Herramientas 
