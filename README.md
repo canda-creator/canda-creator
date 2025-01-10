@@ -17,6 +17,6 @@ A work-in-progress portfolio that highlights my development journey as a Front-E
 
 ## Contacto
 - 📧 **Email:** [candelaalfonso13@gmail.com](candelaalfonso13@gmail.com)
-- 🎨 **Behance:** [Mi portfolio como diseñadora gráfica](https://www.behance.net/candelaalfonso1/info)
-- 📌 **Pinterest:** [Encontrame en Pinterest](https://ar.pinterest.com/candeschwidt)
+- 🎨 **Behance:** [My portfolio as a graphic designer.](https://www.behance.net/candelaalfonso1/info)
+- 📌 **Pinterest:** [Find me on Pinterest.](https://ar.pinterest.com/candeschwidt)
 - 🐱 **GitHub:** [@canda-creator](https://github.com/canda-creator)
